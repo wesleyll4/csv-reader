@@ -1,0 +1,17 @@
+{
+  "name": "csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csvReader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "exceljs": "^4.3.0",
+    "install": "^0.13.0",
+    "npm": "^8.19.1"
+  }
+}
